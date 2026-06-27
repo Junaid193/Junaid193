@@ -1,5 +1,5 @@
 ## Hi, I'm Junaid 👨‍💻  
-🎓 Final-year engineering student at Jaypee University  
+🎓 CSE graduate from Jaypee University  
 🤖 Passionate about Machine Learning & Computer Vision
 
 ## 🌐 Socials:
